@@ -1,4 +1,9 @@
 ## Bem-vindo(a) ao perfil da Dev Andressa 😁
+## Hi! My name is Andressa Lima, Welcome to the page!
+
+Sou uma pessoa apaixonada pela programação desde o primeiro contato. Desde então sempre procurei correr atrás do sonho de trabalhar como desenvolvedora e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript. 
+
+Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar Super Mario, ver animes, comédia romântica e séries.
 
  <div>
    <a href="https://github.com/andressa-l">

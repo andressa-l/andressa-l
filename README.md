@@ -3,7 +3,7 @@
 <p><em>Software Engineer | Desenvolvedora Front-end</em></p>
 
 ## About Me
-Sou uma pessoa apaixonada pela programação desde o primeiro contato. Desde então sempre procurei correr atrás do sonho de trabalhar como desenvolvedora e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript. 
+<em>Sou uma pessoa apaixonada pela programação desde o primeiro contato. Desde então sempre procurei correr atrás do sonho de trabalhar como desenvolvedora e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript. </em><br/>
 
 ```javacript
 const JV = {
@@ -11,9 +11,9 @@ const JV = {
   code: [JavaScript, HTML5, CSS3],
 }
 ```
-<img src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="100"> <br/> <em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b>então sinta-se à vontade para entrar em contato :)</em>
+<img src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="100"> <br/> <em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b> então sinta-se à vontade para entrar em contato :)</em>
 
-<p><em>Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar Super Mario, ver animes, comédia romântica e séries.</em></p>
+<p><em>Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar Super Mario, ver animes, comédia romântica e séries.</em></p><br/>
 
  <div>
    <a href="https://github.com/andressa-l">

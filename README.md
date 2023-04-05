@@ -3,9 +3,9 @@
 <p><em>Software Engineer | Desenvolvedora Front-end</em></p>
 
 ## About Me
-<em>Sou uma pessoa apaixonada pela programação desde o primeiro contato. Desde então sempre procurei correr atrás do sonho de trabalhar como desenvolvedora e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript. </em><br/>
+<em>Sou uma pessoa apaixonada pela programação desde o primeiro contato. Desde então sempre procurei ir em busca do sonho de trabalhar como desenvolvedora e atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript. </em><br/>
 
-```javacript
+```javascript
 const JV = {
   pronouns: "She" | "Her",
   code: [JavaScript, HTML5, CSS3],

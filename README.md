@@ -11,17 +11,17 @@ const JV = {
   code: [JavaScript, HTML5, CSS3],
 }
 ```
-<img src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="100"> <br/> <em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b> então sinta-se à vontade para entrar em contato :)</em>
+<img align="right" src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="100"> <br/> <em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b> então sinta-se à vontade para entrar em contato :)</em>
 
 <p><em>Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar Super Mario, ver animes, comédia romântica e séries.</em></p><br/>
 
- <div>
+ <div align="center">
    <a href="https://github.com/andressa-l">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressa-l&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-l&layout=compact&langs_count=6&theme=tokyonight"/>
-
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andressa-l&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-l&layout=compact&langs_count=7&theme=dracula" />
 </div>
-<div style="display: inline_block"><br>
+  
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">

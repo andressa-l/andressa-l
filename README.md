@@ -1,14 +1,16 @@
-## Bem-vindo(a) ao perfil da Andressa 😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900CC&height=120&section=header"/>
+
+## Welcome! ✨
 <h2> Hey 👋🏻, I'm Andressa Lima <img src="https://katalinszilardhungarianspecializedtranslations.files.wordpress.com/2018/05/tumblr_o2a9wxkfxi1r6l65eo1_1280.gif" width="50"></h2>
 <p><em>Software Engineer | Front-end and Back-end Developer</em></p>
 
 ## About Me
-<em>Sou uma pessoa apaixonada pela programação desde o primeiro contato. Desde então sempre procurei ir em busca do sonho de trabalhar como desenvolvedora e atualmente coloquei esse sonho em prática estudando HTML, CSS, JavaScript e Java. </em><br/>
+<em>Sou uma pessoa apaixonada por desafios. Desde então sempre procurei ir em busca do sonho de trabalhar como desenvolvedora e atualmente coloquei esse sonho em prática estudando HTML, CSS, JavaScript e Java. </em><br/>
 
 ```javascript
 const JV = {
   pronouns: "She" | "Her",
-  code: [JavaScript, HTML5, CSS3],
+  code: [Java, JavaScript, HTML5, CSS3],
 }
 ```
 <div style="display: inline_block" align="center">
@@ -20,8 +22,8 @@ const JV = {
 ### GitHub Profile Stats 💻
 <br/>
 <div style="display: inline_block" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andressa's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=andressa-l&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="160em"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andressa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-l&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="160em"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andressa's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=andressa-l&show_icons=true&theme=radical" height="180em"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andressa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-l&langs_count=8&layout=compact&theme=radical" height="180em"/></a>
 </div>
 <br/>
 
@@ -29,6 +31,7 @@ const JV = {
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg ">
 </div>
 <br/>
 
@@ -104,11 +107,23 @@ const JV = {
 </table>
  
  
-  ### Para mais informações me segue nas redes abaixo!
+### Para mais informações me segue nas redes abaixo!
  
 <div style="display: inline_block" align="center">
   <a href = "https://instagram.com/andressa_alima_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gregorio.andressa.lima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/andressa-lima-b18988253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<tr />
+<br />
+
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andressa-l}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9900CC&height=120&section=footer"/>
 

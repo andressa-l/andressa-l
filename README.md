@@ -5,7 +5,7 @@
 <p><em>Software Engineer | Front-end and Back-end Developer</em></p>
 
 ## About Me
-<em>Sou uma pessoa apaixonada por desafios. Desde então sempre procurei ir em busca do sonho de trabalhar como desenvolvedora e atualmente coloquei esse sonho em prática estudando HTML, CSS, JavaScript e Java. </em><br/>
+<em>Uma Dev apaixonada por desafios. Desde então sempre procurei ir em busca do sonho de trabalhar como desenvolvedora e atualmente coloquei esse sonho em prática estudando HTML, CSS, JavaScript e Java. </em><br/>
 
 ```javascript
 const JV = {

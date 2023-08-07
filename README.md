@@ -13,18 +13,18 @@ const JV = {
   code: [Java, JavaScript, HTML5, CSS3],
 }
 ```
+<br/>
 <div style="display: inline_block" align="center">
-  <br/> 
-  <img align="left" src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="130" /><br/>
-  <em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b> então sinta-se à vontade para entrar em contato :) Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar Super Mario, ver animes, comédia romântica e séries.</em> 
+  <img align="left" src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="130" />
+  <em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b> então sinta-se à vontade para entrar em contato :) Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar   Super Mario, ver animes, comédia romântica e séries.</em> <br/>
   <br/><br/>
 </div> 
 
 ### GitHub Profile Stats 💻
 <br/>
 <div style="display: inline_block" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andressa's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=andressa-l&show_icons=true&theme=radical" height="180em"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andressa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-l&langs_count=8&layout=compact&theme=radical" height="180em"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andressa's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=andressa-l&show_icons=true&theme=radical" height="160em"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="andressa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-l&langs_count=8&layout=compact&theme=radical" height="160em"/></a>
 </div>
 <br/>
 

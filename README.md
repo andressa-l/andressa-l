@@ -14,10 +14,11 @@ const JV = {
 }
 ```
 <div style="display: inline_block" align="center">
-<img align="center" src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="150" /></div> 
-<br/> 
-<em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b> então sinta-se à vontade para entrar em contato :)</em>
-<p><em>Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar Super Mario, ver animes, comédia romântica e séries.</em></p><br/>
+  <br/> 
+  <img align="left" src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="130" /><br/>
+  <em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b> então sinta-se à vontade para entrar em contato :) Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar Super Mario, ver animes, comédia romântica e séries.</em> 
+  <br/><br/>
+</div> 
 
 ### GitHub Profile Stats 💻
 <br/>

@@ -5,7 +5,7 @@
 <p><em>Software Engineer | Front-end and Back-end Developer</em></p>
 
 ## About Me
-<em>Uma Dev apaixonada por desafios. Desde então sempre procurei ir em busca do sonho de trabalhar como desenvolvedora e atualmente coloquei esse sonho em prática estudando HTML, CSS, JavaScript e Java. </em><br/>
+<em>A Dev passionate about challenges. Since then I've always tried to pursue the dream of working as a developer and currently I've put that dream into practice by studying HTML, CSS, JavaScript and Java. </em><br/>
 
 ```javascript
 const JV = {
@@ -16,7 +16,7 @@ const JV = {
 <br/>
 <div style="display: inline_block" align="center">
   <img align="left" src="https://cdn.dribbble.com/users/140720/screenshots/4523961/google_community_friends_dribbble_800x600.gif" width="130" />
-  <em><b>Adoro viajar, colaborar e me conectar com pessoas diferentes ao redor do mundo,</b> então sinta-se à vontade para entrar em contato :) Gosto muito de café e gatos (até demais), e meus principais hobbies são jogar   Super Mario, ver animes, comédia romântica e séries.</em> <br/>
+  <em><b>I love to travel, collaborate and connect with different people around the world,</b> so feel free to get in touch :) I really like coffee and cats (too much), and my main hobbies are playing Super Mario,           watching anime, romantic comedy and series.</em> <br/>
   <br/><br/>
 </div> 
 
@@ -108,7 +108,7 @@ const JV = {
 </table>
  
  
-### Para mais informações me segue nas redes abaixo!
+### For more information follow me on the networks below!
  
 <div style="display: inline_block" align="center">
   <a href = "https://instagram.com/andressa_alima_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

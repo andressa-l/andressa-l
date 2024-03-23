@@ -14,7 +14,7 @@ A Dev passionate about challenges. Since then I've always tried to pursue the dr
 ```javascript
 const JV = {
   pronouns: "She" | "Her",
-  code: [Java, C#, JavaScript, HTML5, CSS3],
+  code: [Java, JavaScript, HTML5, CSS3],
 }
 ```
 <br/>
@@ -60,22 +60,35 @@ const JV = {
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C language" />
       <br>C
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql" />
       <br>MySQL
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="SASS" />
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+
   </tr>
   <tr>
     <td align="center" width="96">
@@ -83,9 +96,13 @@ const JV = {
       <br>Git
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="Git" />
+      <br>TypeScript
+    </td>
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
-    </td>
+    </td> -->
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -106,6 +123,11 @@ const JV = {
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+
   </tr>
  <tr>
  </tr>
@@ -116,10 +138,12 @@ const JV = {
   <summary><b>🚀 Skills</b></summary></br>
 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-  [![PHP](https://img.shields.io/badge/PHP-4D97FF?style=for-the-badge&logo=php&logoColor=white)]()
+  [![C#](https://img.shields.io/badge/Csharp-105600?style=for-the-badge&logo=csharp&logoColor=white)]()
   [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
   [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+  [![React](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white)]()
   [![Java](https://img.shields.io/badge/Java-383385?style=for-the-badge&logo=java&logoColor=F7DF1E)]()
+  [![Angular](https://img.shields.io/badge/Angular-323300?style=for-the-badge&logo=angular&logoColor=E34F26)]()
   [![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
   

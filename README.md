@@ -88,6 +88,15 @@ const JV = {
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" width="48" height="48" alt="t-sql" />
+      <br>T-SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="notion" />
+      <br>Notion
+    </td>
+    
 
   </tr>
   <tr>
@@ -124,9 +133,18 @@ const JV = {
       <br>Figma
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="node" />
+      <br>NODEJS
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+      <br>postgres
+    </td>
+
 
   </tr>
  <tr>
@@ -146,6 +164,8 @@ const JV = {
   [![Angular](https://img.shields.io/badge/Angular-323300?style=for-the-badge&logo=angular&logoColor=E34F26)]()
   [![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+  [![NODE.JS](https://img.shields.io/badge/NODEJS-105600?style=for-the-badge&logo=nodejs&logoColor=white)]()
+
   
   <!--[![SCRATCH](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)]()-->
   
